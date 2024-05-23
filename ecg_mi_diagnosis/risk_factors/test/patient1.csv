@@ -1,0 +1,3 @@
+﻿age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,total_risk,exercise_angina,cholesterol_hdl_ratio
+60,0,4,150,258,0,2,157,0,2.6,2,2,7,408,FALSE,1.643312
+23,1,15,150,100,0,3,125,1,1.6,1,2,5,100,FALSE,1.643312
