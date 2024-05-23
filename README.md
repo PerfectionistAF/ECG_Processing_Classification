@@ -1,4 +1,4 @@
-# Project Title
+# ECG Diagnosis Model
 
 One Paragraph of the project description
 
