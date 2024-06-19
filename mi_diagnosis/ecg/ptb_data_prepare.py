@@ -1,6 +1,6 @@
 ## Many neural networks we tested: AlexNet, ResNet50, Gradient Boosting CNN, ConvNetQuake
-## the best one so far is the ConvQuakeNet
-
+## the best one so far is the ConvQuakeNet then ResNet50
+## Use this file to prepare data for a parallelized model
 ##start by processing the data
 ##then create the nn.Model subclass
 ##then call the Pso(forward function of model)
