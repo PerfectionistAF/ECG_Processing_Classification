@@ -9,8 +9,13 @@ Myocardial infarction (MI) is the ischemic death of myocardial tissue, often cau
 
 ## Acknowledgments
 - Walaa H. Elashmawi 
+  
   Faculty of Computers & Informatics, Suez Canal University, Ismailia, Egypt
+  
   Faculty of Computer Science, Misr International University, Cairo, Egypt
+
 - Ahmed Ali
+  
   College of Computer Engineering and Sciences, Prince Sattam Bin Abdulaziz University, Alkharj Saudi Arabia
+  
   Higher Future Institute for Specialized Technological Studies, Cairo, Egypt
